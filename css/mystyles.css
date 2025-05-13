@@ -1,0 +1,26 @@
+p{
+    color: lightslategray;
+}
+
+a.EKlink {
+    padding: 0px 30px;
+    margin: 0px 0px 0px 10px;
+    border-radius: 50px;
+    color: lightcoral;
+}
+
+a.EKlink:hover{
+    background-color: salmon;
+    color: antiquewhite;
+}
+
+div.EKdivgrey{
+    background-color: rgb(235, 235, 235);
+    padding: 30px;
+    border-radius: 10px;
+    border: 1px solid grey;
+}
+
+h4.EKsmallh4{
+    font-size: 18px;
+}

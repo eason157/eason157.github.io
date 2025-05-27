@@ -28,3 +28,9 @@ h4.EKsmallh4{
 .easonserif{
   font-family: "Noto Serif TC", serif;
 }
+
+.easoncallmebg{
+    background-image: url("../assets/img/bg.png"); 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
